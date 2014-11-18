@@ -1,0 +1,62 @@
+C:\Users\Nicholas\Documents\Visual Studio 2013\Projects\BeeTest_Frame\BeeTest_Frame\bin\Debug\BeeTest_Frame.exe.config
+C:\Users\Nicholas\Documents\Visual Studio 2013\Projects\BeeTest_Frame\BeeTest_Frame\bin\Debug\BeeTest_Frame.exe
+C:\Users\Nicholas\Documents\Visual Studio 2013\Projects\BeeTest_Frame\BeeTest_Frame\bin\Debug\BeeTest_Frame.pdb
+C:\Users\Nicholas\Documents\Visual Studio 2013\Projects\BeeTest_Frame\BeeTest_Frame\obj\Debug\ucBee.baml
+C:\Users\Nicholas\Documents\Visual Studio 2013\Projects\BeeTest_Frame\BeeTest_Frame\obj\Debug\MainWindow.g.cs
+C:\Users\Nicholas\Documents\Visual Studio 2013\Projects\BeeTest_Frame\BeeTest_Frame\obj\Debug\ucBee.g.cs
+C:\Users\Nicholas\Documents\Visual Studio 2013\Projects\BeeTest_Frame\BeeTest_Frame\obj\Debug\App.g.cs
+C:\Users\Nicholas\Documents\Visual Studio 2013\Projects\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame_MarkupCompile.cache
+C:\Users\Nicholas\Documents\Visual Studio 2013\Projects\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame_MarkupCompile.lref
+C:\Users\Nicholas\Documents\Visual Studio 2013\Projects\BeeTest_Frame\BeeTest_Frame\obj\Debug\MainWindow.baml
+C:\Users\Nicholas\Documents\Visual Studio 2013\Projects\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame.g.resources
+C:\Users\Nicholas\Documents\Visual Studio 2013\Projects\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame.Properties.Resources.resources
+C:\Users\Nicholas\Documents\Visual Studio 2013\Projects\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame.csproj.GenerateResource.Cache
+C:\Users\Nicholas\Documents\Visual Studio 2013\Projects\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame.exe
+C:\Users\Nicholas\Documents\Visual Studio 2013\Projects\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame.pdb
+E:\BeeTest_Frame\BeeTest_Frame\bin\Debug\BeeTest_Frame.exe.config
+E:\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame.exe
+E:\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame.pdb
+E:\BeeTest_Frame\BeeTest_Frame\bin\Debug\BeeTest_Frame.exe
+E:\BeeTest_Frame\BeeTest_Frame\bin\Debug\BeeTest_Frame.pdb
+E:\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame.csprojResolveAssemblyReference.cache
+E:\BeeTest_Frame\BeeTest_Frame\obj\Debug\ucBee.baml
+E:\BeeTest_Frame\BeeTest_Frame\obj\Debug\MainWindow.g.cs
+E:\BeeTest_Frame\BeeTest_Frame\obj\Debug\ucBee.g.cs
+E:\BeeTest_Frame\BeeTest_Frame\obj\Debug\App.g.cs
+E:\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame_MarkupCompile.cache
+E:\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame_MarkupCompile.lref
+E:\BeeTest_Frame\BeeTest_Frame\obj\Debug\MainWindow.baml
+E:\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame.g.resources
+E:\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame.Properties.Resources.resources
+E:\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame.csproj.GenerateResource.Cache
+H:\BeeTest_Frame\BeeTest_Frame\bin\Debug\BeeTest_Frame.exe.config
+H:\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame.exe
+H:\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame.pdb
+H:\BeeTest_Frame\BeeTest_Frame\bin\Debug\BeeTest_Frame.exe
+H:\BeeTest_Frame\BeeTest_Frame\bin\Debug\BeeTest_Frame.pdb
+H:\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame.csprojResolveAssemblyReference.cache
+H:\BeeTest_Frame\BeeTest_Frame\obj\Debug\ucBee.baml
+H:\BeeTest_Frame\BeeTest_Frame\obj\Debug\MainWindow.g.cs
+H:\BeeTest_Frame\BeeTest_Frame\obj\Debug\ucBee.g.cs
+H:\BeeTest_Frame\BeeTest_Frame\obj\Debug\App.g.cs
+H:\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame_MarkupCompile.cache
+H:\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame_MarkupCompile.lref
+H:\BeeTest_Frame\BeeTest_Frame\obj\Debug\MainWindow.baml
+H:\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame.g.resources
+H:\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame.Properties.Resources.resources
+H:\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame.csproj.GenerateResource.Cache
+C:\Users\Nicholas\Desktop\BeeTest_Frame\BeeTest_Frame\bin\Debug\BeeTest_Frame.exe.config
+C:\Users\Nicholas\Desktop\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame.exe
+C:\Users\Nicholas\Desktop\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame.pdb
+C:\Users\Nicholas\Desktop\BeeTest_Frame\BeeTest_Frame\obj\Debug\ucBee.baml
+C:\Users\Nicholas\Desktop\BeeTest_Frame\BeeTest_Frame\obj\Debug\MainWindow.g.cs
+C:\Users\Nicholas\Desktop\BeeTest_Frame\BeeTest_Frame\obj\Debug\ucBee.g.cs
+C:\Users\Nicholas\Desktop\BeeTest_Frame\BeeTest_Frame\obj\Debug\App.g.cs
+C:\Users\Nicholas\Desktop\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame_MarkupCompile.cache
+C:\Users\Nicholas\Desktop\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame_MarkupCompile.lref
+C:\Users\Nicholas\Desktop\BeeTest_Frame\BeeTest_Frame\bin\Debug\BeeTest_Frame.exe
+C:\Users\Nicholas\Desktop\BeeTest_Frame\BeeTest_Frame\bin\Debug\BeeTest_Frame.pdb
+C:\Users\Nicholas\Desktop\BeeTest_Frame\BeeTest_Frame\obj\Debug\MainWindow.baml
+C:\Users\Nicholas\Desktop\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame.g.resources
+C:\Users\Nicholas\Desktop\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame.Properties.Resources.resources
+C:\Users\Nicholas\Desktop\BeeTest_Frame\BeeTest_Frame\obj\Debug\BeeTest_Frame.csproj.GenerateResource.Cache

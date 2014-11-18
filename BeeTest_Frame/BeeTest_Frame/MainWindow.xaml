@@ -1,0 +1,24 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:BeeTest_Frame" x:Name="windowBees" x:Class="BeeTest_Frame.MainWindow"
+        Title="The Killing of Bees" Height="864.052" Width="926.232" Background="#FF1E1E1E" ResizeMode="NoResize">
+    <Grid>
+        <Button x:Name="btnCreateBee" Content="Generate" HorizontalAlignment="Left" Margin="648,33,0,0" Width="123" Click="btnCreateBee_Click" BorderBrush="Black" Foreground="White" Background="#FF3F3F46" Height="70" VerticalAlignment="Top"/>
+        <Button x:Name="btnAttackBee" Content="Attack" Margin="776,33,0,0" Click="btnAttackBee_Click" HorizontalAlignment="Left" Width="123" BorderBrush="Black" Foreground="White"  Background="#FF3F3F46" Height="70" VerticalAlignment="Top" />
+
+        <StackPanel x:Name="stackBees" Orientation="Horizontal" HorizontalAlignment="Left" Width="922" Margin="0,215,0,21">
+            <StackPanel x:Name="stackBeesW" Margin="0,0,0,0" CanVerticallyScroll="True" HorizontalAlignment="Right" Width="302"/>
+            <StackPanel x:Name="stackBeesD" Margin="0,0,0,0" CanVerticallyScroll="True" HorizontalAlignment="Right" Width="302"/>
+            <StackPanel x:Name="stackBeesQ" Margin="0,0,0,0" CanVerticallyScroll="True" HorizontalAlignment="Right" Width="302"/>
+
+        </StackPanel>
+        <Image x:Name="imgLogo" HorizontalAlignment="Left" Height="159" Margin="5,0,0,0" VerticalAlignment="Top" Width="113" Source="images/beePic.png" Stretch="Fill"/>
+        <Image x:Name="imgHeader" HorizontalAlignment="Left" Height="100" Margin="118,33,0,0" VerticalAlignment="Top" Width="453" Source="images/The-Killing-of-Bees.png"/>
+        <Image x:Name="imgQueens" HorizontalAlignment="Left" Height="76" Margin="665,139,0,0" VerticalAlignment="Top" Width="179" Source="images/queens.png" Stretch="Fill"/>
+        <Image x:Name="imgDrones" HorizontalAlignment="Left" Height="76" Margin="359,139,0,0" VerticalAlignment="Top" Width="179" Source="images/drones.png" Stretch="Fill"/>
+        <Image x:Name="imgWorkers" HorizontalAlignment="Left" Height="76" Margin="56,139,0,0" VerticalAlignment="Top" Width="179" Source="images/workers.png" Stretch="Fill"/>
+
+
+    </Grid>
+</Window>
